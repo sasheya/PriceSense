@@ -1,0 +1,5 @@
+attribute,importance_score,interpretation
+unit_price,29.808287827478086,Direct pricing strategy
+competitor_price,0.9588096466470335,Market competitiveness
+product_cat_encoded,0.011271759074851168,Product offering / Catalog
+segment_encoded,69.22163076680003,Customer tier demographics

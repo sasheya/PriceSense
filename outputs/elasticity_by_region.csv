@@ -1,0 +1,34 @@
+region,elasticity,p_value,r_squared,sample_size,interpretation
+United Kingdom,-0.3911484164536185,2.398082275595128e-100,0.07846868487593694,405394,"Inelastic — price increases viable, low volume risk"
+France,-0.5497776269442981,4.122028630358233e-08,0.31400957845942434,6282,"Inelastic — price increases viable, low volume risk"
+Australia,-0.20509238860021362,0.6822035745857788,0.0759611622869466,468,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Germany,-0.6202909584831989,1.0907401284900127e-14,0.3993868687026223,6670,"Inelastic — price increases viable, low volume risk"
+Norway,-0.5883687730150727,0.009303335578096041,0.5051801668914782,649,"Inelastic — price increases viable, low volume risk"
+EIRE,-0.8375523844066043,1.199192907949566e-25,0.535233159543102,5449,Moderately elastic — price increases need careful testing
+Switzerland,-0.5789925598448789,0.00880064083683434,0.29715524771697766,1352,"Inelastic — price increases viable, low volume risk"
+Poland,-1.8280759654429939,7.155002160007765e-11,0.7781659398149157,238,"Highly elastic — price sensitive, avoid increases"
+Portugal,-0.40300878011649865,0.19169910970327952,0.10596809171331278,1222,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Italy,-0.8258968008659094,8.25583442670941e-05,0.6293920677852862,587,Moderately elastic — price increases need careful testing
+Belgium,-0.8635577303760623,1.708444328543545e-14,0.6935873806601178,1508,Moderately elastic — price increases need careful testing
+Japan,1.065190148404422,0.5462008161929232,0.1300010480972308,86,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Iceland,-0.7416826180190743,0.12628824567406766,0.5036733155775861,141,Moderately elastic — price increases need careful testing (Warning: Not Statistically Significant)
+Channel Islands,-0.6127384406317938,0.002329362006722588,0.7020041620882214,525,"Inelastic — price increases viable, low volume risk"
+Denmark,-0.7318013297515156,0.10204803736289426,0.2166796301417222,207,Moderately elastic — price increases need careful testing (Warning: Not Statistically Significant)
+Spain,-0.37097757982809176,0.08938421424786751,0.23421461584508707,1894,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Cyprus,-0.09388465126464361,0.8510235052221891,0.16144943015738988,481,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Austria,-0.6000840166127079,0.0390385116337847,0.5401484792238738,316,"Inelastic — price increases viable, low volume risk"
+Sweden,-0.9072558432972307,0.03925351012388813,0.3977518052277347,196,Moderately elastic — price increases need careful testing
+Netherlands,0.3557176964089259,0.5907538024724253,0.00556256446183645,506,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Israel,-1.7223888434047627,0.031894361347843105,0.15697413805697424,188,"Highly elastic — price sensitive, avoid increases"
+Finland,-0.9894888662032397,6.670810665417158e-05,0.490814049712025,463,Moderately elastic — price increases need careful testing
+Greece,-0.645359628698384,0.3754238809343792,0.24034751349827466,116,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Hong Kong,-0.16559682719367486,0.7319089949858468,0.32907414113914335,172,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Singapore,-0.2979234459624418,0.6020419102164947,0.118509690025554,123,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Lebanon,-0.6842309061825281,0.47112934258639083,0.2098563164417072,33,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+United Arab Emirates,-1.7702361863710958,0.02581761206765737,0.4270343590636956,49,"Highly elastic — price sensitive, avoid increases"
+Canada,-1.1097983745019167,0.010377943352963992,0.6681625073609561,102,Moderately elastic — price increases need careful testing
+Unspecified,-0.22821553046212387,0.7326769025366329,0.05863470092612233,365,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+USA,-0.9084154386002672,0.12749787121592707,0.5159521681008477,134,Moderately elastic — price increases need careful testing (Warning: Not Statistically Significant)
+European Community,-0.21188942286573673,0.7349841898470058,0.714953030864715,45,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"
+Malta,-0.8676199619475194,0.07203723103616991,0.6933490375088824,85,Moderately elastic — price increases need careful testing (Warning: Not Statistically Significant)
+RSA,-0.4530116848669069,0.4475624088909025,0.7658095964261646,48,"Inelastic — price increases viable, low volume risk (Warning: Not Statistically Significant)"

@@ -1,0 +1,4 @@
+segment,elasticity,p_value,r_squared,sample_size,interpretation
+Premium,-0.3922688149572728,1.9335407912228103e-59,0.07156910938246541,242780,"Inelastic — price increases viable, low volume risk"
+Budget,-0.24069809150944588,5.997736516490741e-21,0.04964068760025253,134528,"Inelastic — price increases viable, low volume risk"
+Mid-tier,-0.42152331029663953,8.331897838560781e-17,0.07115221534855876,58858,"Inelastic — price increases viable, low volume risk"
