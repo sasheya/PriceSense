@@ -154,10 +154,9 @@ plt.tight_layout()
 plt.show()
 """)
 
+
 # Build Notebook Content and Save
 nb.cells = cells
-with open("build_notebook.py", "w") as f:
-    pass # Overwritten by nbformat dump below
-""")
-
-# I will write another script to append the rest of the file since it's large.
+with open('notebooks/PriceSense_Analysis_Part1.ipynb', 'w', encoding='utf-8') as out_f:
+    nbf.write(nb, out_f)
+print('Part 1 Notebook generated successfully.')
