@@ -52,4 +52,3 @@ The following CSV outputs are pre-formatted for direct ingestion into Tableau to
 - **Purpose**: Visualizes the continuous volume drop-off as prices increase.
 - **Fields to Use**: `price_index` (Columns, Treat as Continuous Dimension), `predicted_quantity` (Rows), `segment` (Color).
 - **Format**: Multi-line chart with a dual axis tracking `revenue` on a dotted secondary line.
-# PriceSense
