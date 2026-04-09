@@ -15,9 +15,9 @@ Retail organizations frequently struggle to balance volume growth with profit ma
 
 ## Tableau Dashboard
 
-[![PriceSense Tableau Dashboard](outputs/PriceSense%20Dashboard.png)](https://public.tableau.com/)
+![PriceSense Tableau Dashboard](outputs/PriceSense_Dashboard.png)
 
-**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/)** *(Placeholder Link)*
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/PriceSense/PriceSenseDashboard)**
 
 ## Tableau Dashboard Guide
 The following CSV outputs are pre-formatted for direct ingestion into Tableau to build an interactive Pricing Strategy Dashboard.
